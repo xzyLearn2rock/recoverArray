@@ -1,0 +1,5 @@
+﻿  main.cpp
+h:\recoverarray\recoverarray\main.cpp(56): warning C4018: “<”: 有符号/无符号不匹配
+h:\recoverarray\recoverarray\main.cpp(77): warning C4018: “<”: 有符号/无符号不匹配
+  recoverArray.vcxproj -> H:\recoverArray\Debug\recoverArray.exe
+  recoverArray.vcxproj -> H:\recoverArray\Debug\recoverArray.pdb (Full PDB)
